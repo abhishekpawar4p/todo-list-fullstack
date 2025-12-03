@@ -1,5 +1,7 @@
 # To-Do List - Full Stack Application
 
+![CI/CD Pipeline](https://github.com/YOUR_USERNAME/todo-list-fullstack/actions/workflows/ci-cd.yml/badge.svg)
+
 A complete full-stack to-do list application built following professional SDLC practices.
 
 ## 🚀 Features
