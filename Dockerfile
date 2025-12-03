@@ -12,7 +12,7 @@ RUN npm install --production
 
 # Copy application code
 COPY server ./server
-COPY .env .env
+
 
 # Expose port 3000
 EXPOSE 3000
