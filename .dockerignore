@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+coverage
+.git
+.gitignore
+README.md
+*.md
+client
+database
+.env.example
+Dockerfile
+docker-compose.yml
+jest.config.js
+.DS_Store
