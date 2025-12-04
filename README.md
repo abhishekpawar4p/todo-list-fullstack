@@ -130,7 +130,7 @@ todo-list-fullstack/
 2. ✅ **Design** - API design documented in API_DESIGN.md
 3. ✅ **Development** - Full-stack implementation
 4. ✅ **Testing** - Manual API testing with curl
-5. ⏳ **DevOps** - Docker & CI/CD (Next phase)
+5. ✅ **DevOps** - Docker & CI/CD (Next phase)
 6. ⏳ **Maintenance** - Monitoring (Next phase)
 
 ## 👨‍💻 Author
